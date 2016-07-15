@@ -1,0 +1,20 @@
+c:\users\sw_dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\ScintillaNET.dll
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Form1.resources
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\SW_Dep_2\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.Form1.resources
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\Users\SW_Dep_2\Desktop\Interpreter\Interpreter\bin\Debug\ScintillaNET.dll
